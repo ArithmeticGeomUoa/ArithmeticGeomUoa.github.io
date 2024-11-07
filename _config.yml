@@ -6,16 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Arithmetic Geometry 
-email: kontogar@math.uoa.gr
+title: The Allan Lab
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-# baseurl: ""
+  Website of the AllanLab.
 baseurl: ""
-#~kontogar/AGgroup
-url: "https://arithmeticgeomuoa.github.io/"
+url: ""
 
 include:
   - .htaccess
@@ -44,29 +40,3 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
-
-plugins:
-  - jekyll-feed
-  - Jekyll-scholar
-
-gems: ['jekyll/scholar']
-         
-
-
-
-
-scholar:
-  first_name: Aristides
-  last_name: Kontogeorgis
-  style: css/ieee-with-url.csl
-  source: _bibliography
-  use_raw_bibtex_entry: true
-  repository: pdf
-  bibliography: cv
-  bibliography_template: bib
-  replace_strings: true
-  join_strings: true
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
-  query: "@*"

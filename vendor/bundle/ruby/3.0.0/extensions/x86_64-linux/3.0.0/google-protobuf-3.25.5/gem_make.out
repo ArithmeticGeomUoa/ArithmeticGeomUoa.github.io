@@ -1,0 +1,36 @@
+current directory: /mnt/c/Users/Dimitrios/Desktop/GitHub/ArithmeticGeomUoa.github.io/vendor/bundle/ruby/3.0.0/gems/google-protobuf-3.25.5/ext/google/protobuf_c
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20241108-27043-ogob4d.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/Dimitrios/Desktop/GitHub/ArithmeticGeomUoa.github.io/vendor/bundle/ruby/3.0.0/gems/google-protobuf-3.25.5/ext/google/protobuf_c
+make DESTDIR\= clean
+
+current directory: /mnt/c/Users/Dimitrios/Desktop/GitHub/ArithmeticGeomUoa.github.io/vendor/bundle/ruby/3.0.0/gems/google-protobuf-3.25.5/ext/google/protobuf_c
+make DESTDIR\=
+compiling convert.c
+convert.c: In function ‘Msgval_IsEqual’:
+convert.c:295:58: warning: passing argument 4 of ‘shared_Msgval_IsEqual’ discards ‘const’ qualifier from pointer target type [-Wdiscarded-qualifiers]
+  295 |                                             type_info.def.msgdef, &status);
+      |                                             ~~~~~~~~~~~~~^~~~~~~
+In file included from convert.c:21:
+shared_convert.h:19:60: note: expected ‘upb_MessageDef *’ but argument is of type ‘const upb_MessageDef *’
+   19 |                            upb_CType type, upb_MessageDef* msgdef,
+      |                                            ~~~~~~~~~~~~~~~~^~~~~~
+convert.c:299:5: error: format not a string literal and no format arguments [-Werror=format-security]
+  299 |     rb_raise(rb_eRuntimeError, upb_Status_ErrorMessage(&status));
+      |     ^~~~~~~~
+convert.c: In function ‘Msgval_GetHash’:
+convert.c:308:41: warning: passing argument 3 of ‘shared_Msgval_GetHash’ discards ‘const’ qualifier from pointer target type [-Wdiscarded-qualifiers]
+  308 |       val, type_info.type, type_info.def.msgdef, seed, &status);
+      |                            ~~~~~~~~~~~~~^~~~~~~
+In file included from convert.c:21:
+shared_convert.h:23:48: note: expected ‘upb_MessageDef *’ but argument is of type ‘const upb_MessageDef *’
+   23 |                                upb_MessageDef* msgdef, uint64_t seed,
+      |                                ~~~~~~~~~~~~~~~~^~~~~~
+convert.c:312:5: error: format not a string literal and no format arguments [-Werror=format-security]
+  312 |     rb_raise(rb_eRuntimeError, upb_Status_ErrorMessage(&status));
+      |     ^~~~~~~~
+cc1: some warnings being treated as errors
+make: *** [Makefile:245: convert.o] Error 1
+
+make failed, exit code 2

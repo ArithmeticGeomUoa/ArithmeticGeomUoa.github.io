@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Arithmetic Geometry at National and Kapodistrian University of Athens."
+excerpt: "Group Acting on Curves."
 sitemap: false
 permalink: /allnews.html
 ---

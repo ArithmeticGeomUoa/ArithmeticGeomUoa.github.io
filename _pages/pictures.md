@@ -1,7 +1,7 @@
 ---
-title: "Arithmetic Geometry group - Pictures"
+title: "Group acting on curves - Pictures"
 layout: piclay
-excerpt: "Arithmetic Geometry Group -- Pictures"
+excerpt: "Group acting on curves -- Pictures"
 permalink: /pictures/
 ---
 

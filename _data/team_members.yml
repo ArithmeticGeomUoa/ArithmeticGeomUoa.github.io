@@ -61,15 +61,6 @@
   education3: Ph.D. <a href="www.math.uoa.gr"> Department of Mathematics </a>  <a href="www.uoa.gr"> University of Athens </a>, supervisor <a href="http://users.uoa.gr/~kontogar"> A. Kontogeorgis </a> 
 
 
-- name: Georgios Katsimprakis
-  photo: Katsimprakis.jpg
-  info: PhD student
-  email: katsimprakis@yahoo.gr
-  number_educ: 3
-  education1: B.S. <a href="www.math.uoa.gr"> Department of Mathematics </a>  <a href="www.uoa.gr"> University of Athens </a>
-  education2: Master <a href="www.math.uoa.gr"> Department of Mathematics </a>  <a href="www.uoa.gr"> University of Athens </a>
-  education3: Ph.D. <a href="www.math.uoa.gr"> Department of Mathematics </a>  <a href="www.uoa.gr"> University of Athens </a>, supervisor <a href="http://users.uoa.gr/~kontogar"> A. Kontogeorgis </a> 
-
 - name: Kostantia Manousou Sotiropoulou
   photo: konstantia.jpg
   info: PhD student
@@ -99,5 +90,12 @@
   education3: Master <a href="www.math.uoa.gr"> Department of Mathematics </a>  <a href="www.uoa.gr"> University of Athens </a>
   education4: Ph.D. <a href="www.math.uoa.gr"> Department of Mathematics </a>  <a href="www.uoa.gr"> University of Athens </a>, supervisor <a href="http://users.uoa.gr/~kontogar"> A. Kontogeorgis </a> 
 
+- name: Charis Makri
+  photo: Makri.jpg
+  info: Administrative Support
+  email: chmakri@uoa.gr
+  number_educ: 2
+  education1: B.A (Hons) in Economics, University of Essex, UK.
+  education2: M.Sc. in Mathematics, London School of Economics and Political Science, UK.
 
 

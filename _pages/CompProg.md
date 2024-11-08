@@ -6,10 +6,8 @@ sitemap: false
 permalink: /Seminars
 ---
 
-# Seminar Hilbert Scheme 
+# Witt Vectors
 
-
-{% youtube VIDEO_ID?list=PL1HKKfy_YD8ez6vjB8XCZ4jFSCckCXBYY %}
 
 
 

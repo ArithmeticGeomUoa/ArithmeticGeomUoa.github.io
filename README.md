@@ -1,4 +1,4 @@
-# Arithmetic Geometry on National and Kapodistrian University of Athens
+# Group Acting on Curves
 
 This is the website of our academic research group at Leiden University.
 

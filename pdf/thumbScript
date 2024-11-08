@@ -1,0 +1,6 @@
+cd pdf
+echo ../eps/*.eps | xargs -n1 pstopdf
+cd ..
+
+
+sips -s format jpeg --resampleWidth 300 *.pdf --out jpg/

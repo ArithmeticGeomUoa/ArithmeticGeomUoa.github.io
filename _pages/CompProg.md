@@ -8,6 +8,6 @@ permalink: /Seminars
 
 # Witt Vectors
 
-[![IMAGE ALT TEXT HERE](images/witt.png)](https://www.youtube.com/watch?v=agANznqlub4)
+[![IMAGE ALT TEXT HERE](/images/witt.png)](https://www.youtube.com/watch?v=agANznqlub4)
 
 

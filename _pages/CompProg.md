@@ -5,7 +5,48 @@ excerpt: "Seminars"
 sitemap: false
 permalink: /Seminars
 ---
-Starting from 21st of January 2025, the Finite Group Schemes seminar takes place each Tuesday at 11:00 pm, in A11 lecture hall of our department.
+Starting from 21st of January 2025, the Finite Group Schemes seminar takes place each Tuesday at 11:00 am, in A11 lecture hall of our department.
+
+<div id="calendar"></div>
+<style>
+    body {
+        background-color: #f4f4f4;
+        font-family: Arial, sans-serif;
+    }
+
+    #calendar {
+        max-width: 800px;
+        height: 600px;
+        margin: 0 auto;
+        background-color: lightblue;
+        border: 1px solid #000;
+        padding: 15px;
+    }
+    .fc-daygrid-day {
+    border: 1px solid #000 !important;  /* black border for each day box */
+}
+</style>
+
+<script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.css" rel="stylesheet">
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var calendarEl = document.getElementById('calendar');
+    var calendar = new FullCalendar.Calendar(calendarEl, {
+        initialView: 'dayGridMonth',
+        eventContent: function(arg) {
+        return { html: `<div style="white-space: normal; font-size: 16px; padding: 5px;">${arg.event.title}</div>` };
+    },
+        events: [
+            { title: 'Kostas Karagiannis: Introduction Part A', start: '2025-01-21'}
+            { title: 'Ilias Andreou: Introduction Part B', start: '2025-01-28' },
+            { title: 'Ilias Andreou: Lie Algebras', start: '2025-02-04' }
+        ]
+    });
+    calendar.render();
+});
+</script>
 
 (Left click on each image to see the lecture on youtube.)
 

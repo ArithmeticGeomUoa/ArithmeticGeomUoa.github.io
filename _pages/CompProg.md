@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
         return { html: `<div style="white-space: normal; font-size: 16px; padding: 5px;">${arg.event.title}</div>` };
     },
         events: [
-            { title: 'Kostas Karagiannis: Introduction Part A', start: '2025-01-21'}
+            { title: 'Kostas Karagiannis: Introduction Part A', start: '2025-01-21'},
             { title: 'Ilias Andreou: Introduction Part B', start: '2025-01-28' },
             { title: 'Ilias Andreou: Lie Algebras', start: '2025-02-04' }
         ]

@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
             { title: 'Kostas Karagiannis: Introduction Part A', start: '2025-01-21'},
             { title: 'Ilias Andreou: Introduction Part B', start: '2025-01-28' },
             { title: 'Ilias Andreou: Lie Algebras', start: '2025-02-04' },
-            { title: 'Ilias Andreou: Quotients', start: '2025-02-04' }
+            { title: 'Ilias Andreou: Quotients', start: '2025-02-11' }
 
         ]
     });

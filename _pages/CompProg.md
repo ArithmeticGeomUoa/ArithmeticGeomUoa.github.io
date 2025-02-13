@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
             { title: 'Ilias Andreou: Lie Algebras', start: '2025-02-04' },
             { title: 'Ilias Andreou: Frobenius Kernels', start: '2025-02-11' },
             { title: 'Miltiadis Karakikes: Quotients', start: '2025-02-18' },
-            { title: 'Dimitrios Noulas: Inverse Galois Problem', start: '2025-02-25' },
+            { title: 'Dimitrios Noulas: Inverse Galois Problem', start: '2025-02-25' }
 
         ]
     });

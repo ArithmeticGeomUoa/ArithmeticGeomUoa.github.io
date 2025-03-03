@@ -46,6 +46,14 @@ permalink: /deliverables/
 
 Working webpage
 
+**Deliverable D13:**
+
+(In progress)
+
+**Deliverable D14:**
+
+(In progress)
+
 ***
 
 ## Article with acknowledge to GAAC:

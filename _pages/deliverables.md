@@ -31,6 +31,7 @@ permalink: /deliverables/
 ## Workpackage 3 Topological Actions
 
 **Deliverables D7:**
+
 [Galois Action on Homology of the Heisenberg Curve](http://arithmeticgeomuoa.github.io/deliverables/2411.11140v2.pdf)
 
 [An Arithmetic Topology viewpoint to the field of moduli/field of definition problem (In preparation)]()

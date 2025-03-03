@@ -48,9 +48,13 @@ Working webpage
 
 **Deliverable D13:**
 
-(In progress)
+[Poster in conference: Algebraic Number Theory, a workshop for young researchers, Munich, Germany](http://arithmeticgeomuoa.github.io/deliverables/Poster_Heisenberg.pdf)
+
+[Talk in conference: Second Workshop of Greek Women in Mathematics](http://arithmeticgeomuoa.github.io/deliverables/gwm_slides.pdf)
 
 **Deliverable D14:**
+
+[Talk in conference: Group Actions, Geometry and Cohomology, Manchester, U.K.](http://arithmeticgeomuoa.github.io/deliverables/TalkManchester2024.pdf)
 
 (In progress)
 

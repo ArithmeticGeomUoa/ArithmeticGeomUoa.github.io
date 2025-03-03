@@ -40,7 +40,7 @@ permalink: /deliverables/
 
 ## Workpackage 4 Administration - Dissemination
 
-**Deliverable D10** Working webpage
+**Deliverables D10:** Working webpage
 
 ***
 

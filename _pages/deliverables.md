@@ -22,6 +22,7 @@ permalink: /deliverables/
 **Deliverable D1a:**
 
 [On the Action of the Symmetric Group on the Free LAnKe](http://arithmeticgeomuoa.github.io/deliverables/2401.09405v3.pdf)
+
 ***
 
 ## Workpackage 2 Deformation Theory

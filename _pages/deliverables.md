@@ -18,6 +18,10 @@ permalink: /deliverables/
 
 [On the Galois-module Structure of Polydifferentials of Artin-Schreier-Mumford Curves, Modular and Integral Representation Theory](http://arithmeticgeomuoa.github.io/deliverables/1305.1541v3.pdf)
 
+
+**Deliverable D1a**
+
+[On the Action of the Symmetric Group on the Free LAnKe](http://arithmeticgeomuoa.github.io/deliverables/2401.09405v3.pdf)
 ***
 
 ## Workpackage 2 Deformation Theory

@@ -32,7 +32,7 @@ permalink: /deliverables/
 
 **Deliverable D2:**
 
-[Equivariant Hilber Series (In preparation)]()
+[Equivariant Hilbert Series (In preparation)]()
 
 ***
 

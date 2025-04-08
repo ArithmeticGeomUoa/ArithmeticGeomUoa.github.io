@@ -23,6 +23,17 @@ permalink: /deliverables/
 
 [On the Action of the Symmetric Group on the Free LAnKe](http://arithmeticgeomuoa.github.io/deliverables/2401.09405v3.pdf)
 
+
+**Deliverable D1b:**
+
+[The De Rham Cohomology of Covers with Cyclic p-Sylow Subgroup](http://arithmeticgeomuoa.github.io/deliverables/garnek.pdf)
+
+
+
+**Deliverable D2:**
+
+[Equivariant Hilber Series (In preparation)]()
+
 ***
 
 ## Workpackage 2 Deformation Theory

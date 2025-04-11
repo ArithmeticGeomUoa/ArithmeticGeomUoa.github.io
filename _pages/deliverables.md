@@ -76,5 +76,8 @@ Working webpage
 
 ***
 
-## Article with acknowledge to GAAC:
+## Articles with acknowledge to GAAC:
+
 [Gorenstein Analogues of a Projectivity Criterion over Group Algebras](http://arithmeticgeomuoa.github.io/deliverables/Ravani.pdf)
+
+[Equivariant Recollements and Singular Equivalences](http://arithmeticgeomuoa.github.io/deliverables/2504.07620v1.pdf)

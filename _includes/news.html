@@ -13,7 +13,9 @@
     {% endif %}
 
     {% if article.image %}
-      <img src="{{ article.image }}" alt="News image" style="max-width:100%; height:auto; margin:10px 0;">
+      <a href="{{ article.image }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ article.image }}" alt="News image" style="max-width:100%; height:auto; margin:10px 0;">
+      </a>
     {% endif %}
 
     {% if article.description %}

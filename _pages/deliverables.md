@@ -40,7 +40,7 @@ permalink: /deliverables/
 
 **Deliverable D4:**
 
-[The Canonical Ideal and the Deformation Theory of Curves with Automorphisms](http://arithmeticgeomuoa.github.io/deliverables/article28Feb.pdf)
+[The Canonical Ideal and the Deformation Theory of Curves with Automorphisms](https://www.sciencedirect.com/science/article/abs/pii/S0022404925001410)
 
 ***
 
@@ -68,11 +68,28 @@ Working webpage
 
 [Talk in conference: Second Workshop of Greek Women in Mathematics](http://arithmeticgeomuoa.github.io/deliverables/gwm_slides.pdf)
 
+Posters in conference: [10th Greek Algebra and Number Theory, University of Crete, Heraklion](https://sites.google.com/view/gantconference2025/):
+
+[Descent and equivariant categories](http://arithmeticgeomuoa.github.io/deliverables/poster_miltos.pdf)
+
+[On the De Rham cohomology of cyclic covers of P1](http://arithmeticgeomuoa.github.io/deliverables/Poster_Hodge_de_Rham.pdf)
+
+[A combinatorial approach on computing graded Betti numbers](http://arithmeticgeomuoa.github.io/deliverables/Poster_konstantia.pdf)
+
+[Ihara theory on the Heisenberg covering tower of P1-{0,1,oo}](http://arithmeticgeomuoa.github.io/deliverables/poster_noulas_crete.pdf)
+
+
 **Deliverable D14:**
 
-[Talk in conference: Group Actions, Geometry and Cohomology, Manchester, U.K.](http://arithmeticgeomuoa.github.io/deliverables/TalkManchester2024.pdf)
+[Talk in conference: Group Actions, Geometry and Cohomology, Manchester, U.K.](http://arithmeticgeomuoa.github.io/deliverables/TalkManchester2024.pdf) (In progress)
 
-(In progress)
+Talks in conference: [10th Greek Algebra and Number Theory, University of Crete, Heraklion](https://sites.google.com/view/gantconference2025/):
+
+[On the action of the symmetric group on the free LAnKe](http://arithmeticgeomuoa.github.io/deliverables/GANT2025_stergiopoulou.pdf)
+
+[Transfer and norm for finite group schemes](http://arithmeticgeomuoa.github.io/deliverables/Karagiannis_GANT_2025.pdf)
+
+[A counterexample for the generalized Oort Conjecture](http://arithmeticgeomuoa.github.io/deliverables/presentation_terezakis.pdf)
 
 ***
 

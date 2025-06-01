@@ -10,10 +10,17 @@ permalink: /allnews.html
 
 {% for article in site.data.news %}
 <p>{{ article.date }} <br>
-<em>{{ article.headline }}</em><br>
-{{ article.image }}</p>
+<em> 
+{% if article.link %}
+        <a href="{{ article.link }}" target="_blank" rel="noopener noreferrer">
+          {{ article.headline }}
+        </a>
+      {% else %}
+        {{ article.headline }}
+      {% endif %}
+</em><br>
+<img src="{{ article.image }}" alt="News image" style="max-width:100%; height:auto;"></p>
 {% endfor %}
-
 
 
 

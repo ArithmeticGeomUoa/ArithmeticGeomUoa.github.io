@@ -91,6 +91,12 @@ Talks in conference: [10th Greek Algebra and Number Theory, University of Crete,
 
 [A counterexample for the generalized Oort Conjecture](http://arithmeticgeomuoa.github.io/deliverables/presentation_terezakis.pdf)
 
+
+Talk in conference : [Derived Representation Theory and Triangulated Categories](https://sites.google.com/view/thessalonikiconference/home)
+:
+
+[Gorenstein modules and dimension over large families of infinite groups](http://arithmeticgeomuoa.github.io/deliverables/gorenstein_modules_and_dimension.pdf)
+
 ***
 
 ## Articles with acknowledge to GAAC:

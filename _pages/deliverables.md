@@ -95,7 +95,7 @@ Talks in conference: [10th Greek Algebra and Number Theory, University of Crete,
 Talk in conference : [Derived Representation Theory and Triangulated Categories](https://sites.google.com/view/thessalonikiconference/home)
 :
 
-[Gorenstein modules and dimension over large families of infinite groups](http://arithmeticgeomuoa.github.io/deliverables/gorenstein_modules_and_dimension.pdf)
+[Gorenstein modules and dimension over large families of infinite groups](http://arithmeticgeomuoa.github.io/deliverables/Gorenstein_modules_and_dimension.pdf)
 
 ***
 

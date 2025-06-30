@@ -20,6 +20,10 @@ permalink: /allnews.html
       {% endif %}
 </em><br>
 <img src="{{ article.image }}" alt="News image" style="max-width:100%; height:auto;"></p>
+{% if article.images %}
+  {% for img in article.images %}
+    <img src="{{ img }}" alt="News image" style="max-width:100%; height:auto;"></p>
+  {% endfor %}
 {% endfor %}
 
 

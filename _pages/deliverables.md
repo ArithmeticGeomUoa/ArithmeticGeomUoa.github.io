@@ -97,6 +97,11 @@ Talk in conference : [Derived Representation Theory and Triangulated Categories]
 
 [Gorenstein modules and dimension over large families of infinite groups](http://arithmeticgeomuoa.github.io/deliverables/Gorenstein_modules_and_dimension.pdf)
 
+Talk in conference: [CIMPA Elliptic curves and their applications](https://sites.google.com/view/ecasummerschool2025)
+
+
+[Braid groups, Galois groups and some algebraic curves](http://arithmeticgeomuoa.github.io/deliverables/CIMPA_talk_noulas.pdf)
+
 ***
 
 ## Articles with acknowledge to GAAC:

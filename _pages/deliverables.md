@@ -102,6 +102,10 @@ Talk in conference: [CIMPA Elliptic curves and their applications](https://sites
 
 [Braid groups, Galois groups and some algebraic curves](http://arithmeticgeomuoa.github.io/deliverables/CIMPA_talk_noulas.pdf)
 
+
+Talk in [Greek Algebra and Number Theory](https://sites.google.com/view/gantseminar/home) online seminar:
+
+[Gorenstein analogues of a projectivity criterion over group algebras](http://arithmeticgeomuoa.github.io/deliverables/GANT_online.pdf)
 ***
 
 ## Articles with acknowledge to GAAC:

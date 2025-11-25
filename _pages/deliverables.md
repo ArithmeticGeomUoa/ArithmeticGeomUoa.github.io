@@ -42,6 +42,10 @@ permalink: /deliverables/
 
 [The Canonical Ideal and the Deformation Theory of Curves with Automorphisms](https://www.sciencedirect.com/science/article/abs/pii/S0022404925001410)
 
+**Deliverable D5:**
+
+[On the De Rham Cohomology of Cyclic Covers](http://arithmeticgeomuoa.github.io/deliverables/lygdas.pdf)
+
 ***
 
 ## Workpackage 3 Topological Actions

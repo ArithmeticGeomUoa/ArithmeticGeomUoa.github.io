@@ -42,6 +42,10 @@ permalink: /deliverables/
 
 [The Canonical Ideal and the Deformation Theory of Curves with Automorphisms](https://www.sciencedirect.com/science/article/abs/pii/S0022404925001410)
 
+**Deliverable D4a:**
+
+[Gorenstein Versions of type Φ Groups and some GCD-CD, GHD-HD Coincidences](http://arithmeticgeomuoa.github.io/deliverables/2510.26746v2.pdf)
+
 **Deliverable D5:**
 
 [On the De Rham Cohomology of Cyclic Covers](http://arithmeticgeomuoa.github.io/deliverables/lygdas.pdf)

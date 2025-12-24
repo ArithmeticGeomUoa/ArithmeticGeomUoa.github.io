@@ -32,7 +32,7 @@ permalink: /deliverables/
 
 **Deliverable D2:**
 
-[Equivariant Hilbert Series (In preparation)]()
+[Equivariant Koszul Cohomology of Canonical Curves](http://arithmeticgeomuoa.github.io/deliverables/2512.19894v1.pdf)
 
 ***
 
@@ -60,7 +60,7 @@ permalink: /deliverables/
 
 **Deliverable D8:**
 
-[An Arithmetic Topology viewpoint to the field of moduli/field of definition problem (In preparation)](http://arithmeticgeomuoa.github.io/deliverables/2512.20551v1.pdf)
+[An Arithmetic Topology viewpoint on Descent theory and Equivariant Categories](http://arithmeticgeomuoa.github.io/deliverables/2512.20551v1.pdf)
 
 ***
 

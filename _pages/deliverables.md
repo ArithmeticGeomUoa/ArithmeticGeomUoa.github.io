@@ -60,7 +60,7 @@ permalink: /deliverables/
 
 **Deliverable D8:**
 
-[An Arithmetic Topology viewpoint to the field of moduli/field of definition problem (In preparation)]()
+[An Arithmetic Topology viewpoint to the field of moduli/field of definition problem (In preparation)](http://arithmeticgeomuoa.github.io/deliverables/2512.20551v1.pdf)
 
 ***
 

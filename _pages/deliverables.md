@@ -34,9 +34,15 @@ permalink: /deliverables/
 
 [Equivariant Koszul Cohomology of Canonical Curves](http://arithmeticgeomuoa.github.io/deliverables/2512.19894v1.pdf)
 
+**Deliverable D3:**
+
+[Galois Module Structure of groups acting on curves](http://arithmeticgeomuoa.github.io/deliverables/D3_GaloisModuleStructre.pdf)
+
+
 ***
 
 ## Workpackage 2 Deformation Theory
+
 
 **Deliverable D4:**
 
@@ -50,6 +56,10 @@ permalink: /deliverables/
 
 [On the De Rham Cohomology of Cyclic Covers](http://arithmeticgeomuoa.github.io/deliverables/lygdas.pdf)
 
+**Deliverable D3:**
+
+[Deformation Theory and Liftings](http://arithmeticgeomuoa.github.io/deliverables/D6_DeformationTheory.pdf)
+
 ***
 
 ## Workpackage 3 Topological Actions
@@ -61,6 +71,10 @@ permalink: /deliverables/
 **Deliverable D8:**
 
 [An Arithmetic Topology viewpoint on Descent theory and Equivariant Categories](http://arithmeticgeomuoa.github.io/deliverables/2512.20551v1.pdf)
+
+**Deliverable D9:**
+
+[Arithmetic Topology and Topological Actions](http://arithmeticgeomuoa.github.io/deliverables/D9_TopologicalActions.pdf)
 
 ***
 

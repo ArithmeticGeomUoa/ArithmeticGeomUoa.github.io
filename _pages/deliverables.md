@@ -22,12 +22,12 @@ permalink: /deliverables/
 **Deliverable D1a:**
 
 [On the Action of the Symmetric Group on the Free LAnKe](http://arithmeticgeomuoa.github.io/deliverables/2401.09405v3.pdf)
-
+Accepted in Electronic Journal of Combinatorics.
 
 **Deliverable D1b:**
 
 [The De Rham Cohomology of Covers with Cyclic p-Sylow Subgroup](http://arithmeticgeomuoa.github.io/deliverables/garnek.pdf)
-
+Published in Journal of Algebra.
 
 
 **Deliverable D2:**

@@ -21,9 +21,9 @@ permalink: /deliverables/
 
 **Deliverable D1a:**
 
-[On the Action of the Symmetric Group on the Free LAnKe](http://arithmeticgeomuoa.github.io/deliverables/2401.09405v3.pdf)
+[On the free LAnKe on 3n−2 generators: a theorem of Friedmann, Hanlon, Stanley and Wachs](http://arithmeticgeomuoa.github.io/deliverables/lanke.pdf)
 
-Accepted in Electronic Journal of Combinatorics.
+Published in Electronic Journal of Combinatorics.
 
 **Deliverable D1b:**
 
